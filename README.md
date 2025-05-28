@@ -10,4 +10,6 @@ Este projeto foi desenvolvido como parte do desafio da trilha de CSS da [DIO](ht
 - CSS3
 
 ## 📸 Resultado
+🔗 [Clique aqui para ver o projeto publicado](https://azulario.github.io/trilha-css-desafio-01/)
+
 ![screenshot](/assets/images/tela_desafio_dio.png)
